@@ -5,4 +5,8 @@ body{
 
 .cabeçalho-img{
     width: 27%;
-   
+}
+.cabeçalho{
+    background-color: rgb(64, 151, 250);
+    color: rgb(5, 5, 5);
+}
