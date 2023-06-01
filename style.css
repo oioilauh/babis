@@ -1,12 +1,18 @@
 body{
-    background-color: rgb(137, 201, 243);
+    background-color: rgb(211, 237, 255);
     
 }
 
 .cabeçalho-img{
-    width: 27%;
+    width: 20%;
 }
 .cabeçalho{
-    background-color: rgb(64, 151, 250);
+    background-color: rgb(42, 154, 219);
     color: rgb(5, 5, 5);
+    DISPLAY: FLEX;
+    justify-content: space-around;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
 }
